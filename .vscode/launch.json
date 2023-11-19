@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/parkjongwon/Desktop/me/컴비/cv-project",
+      "program": "/Users/parkjongwon/Desktop/me/컴비/cv-project/build/Debug/outDebug"
+    }
+  ]
+}
